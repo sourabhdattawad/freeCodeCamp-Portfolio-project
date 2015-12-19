@@ -1,0 +1,149 @@
+#navigation .navbar-brand {
+  color: rgb(240, 240, 240);
+  font-size : 50px; 
+  font-family: 'Dawning of a New Day', cursive;
+}
+#navcolor {
+  color: #FA07A;
+}
+
+#navigation .navbar-nav a {
+  color: rgb(240, 240, 240);
+  font-family: 'Dawning of a New Day', cursive;
+  font-size:30px;
+}
+#navigation .navbar-header > button:hover {
+  background-color: transparent;
+}
+
+#navigation .navbar-header > button:active {
+  background-color: transparent;
+}
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+#home h1 {
+  margin-top:100px;
+  font-size: 90px;
+  font-family: 'Dawning of a New Day', cursive;
+  text-align: center;
+  color: rgb(240, 240, 240);
+}
+#centered-buttons{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#home h2 {
+  margin-top:80px;
+  font-size: 40px;
+  font-family: 'Dawning of a New Day', cursive;
+  text-align: center;
+  color: rgb(240, 240, 240);
+}
+#portfolio{
+  background-color:#151515;
+    padding-bottom:40%;
+    background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#portfolio h1{
+  margin-top:80px;
+  font-size: 60px;
+  font-family: 'Dawning of a New Day', cursive;
+  text-align: center;
+  color: rgb(240, 240, 240);
+}
+#portfolio p{
+  margin-top:80px;
+  font-size: 30px;
+  font-family: 'Dawning of a New Day', cursive;
+  text-align: center;
+  color: rgb(240, 240, 240);
+}
+
+
+#about{
+  background-color:  color: rgb(240, 240, 240);
+;
+  padding-bottom:30%;
+    background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+#about h1{
+  margin-top:80px;
+  font-size: 60px;
+  font-family: 'Dawning of a New Day', cursive;
+  text-align: center;
+  color: rgb(000, 000, 000);
+}
+#about h2{
+  margin-top:80px;
+  font-size: 30px;
+  font-family: 'Dawning of a New Day', cursive;
+  text-align: center;
+  color: rgb(000, 000, 000);
+}
+.footer{
+  padding-top:5px;
+    font-size: 30px;
+
+  font-family: 'Dawning of a New Day', cursive;
+}
+
+#contact{
+  background-image:url("http://www.bhmpics.com/walls/london_phone_booth-wide.jpg");
+    background-attachment: fixed;
+  padding-top:7%;
+  padding-bottom: 20%;
+      background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#contact h1{
+  margin-top:80px;
+  font-size: 60px;
+  font-family: 'Dawning of a New Day', cursive;
+  text-align: center;
+  color: rgb(240, 240, 240);
+}
+#contact h2{
+  margin-top:80px;
+  font-size: 30px;
+  font-family: 'Dawning of a New Day', cursive;
+  text-align: center;
+  color: rgb(240, 240, 240);
+}
+#home {
+  /*background-color: rgb(30, 30, 30);*/
+  
+  background-image: url("http://www.magic4walls.com/wp-content/uploads/2013/12/bokeh-lights-sunset-city.jpg");
+  background-attachment: fixed;
+  padding-bottom: 30%;
+      background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#navcol{
+  color: black;
+}
+
+
+#detail a {
+  background-color: blue;
+  
+}
+
+
